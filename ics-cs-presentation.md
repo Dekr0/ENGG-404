@@ -1,0 +1,48 @@
+- Title ICS (Industrial Control System) Cybersecurity Presentation
+- Requirement of Cybersecurity in IT  (in order) : confidentiality, Integrity, Availiability
+- Requirement of Cybersecurity in OT  (in order) : Safety, Reliability / Resilience, Availiability, 
+- Definition
+	- Risk - consequence caused by vlunerability
+- Highest priority for a organization in the next 12 montsh (survery, in order)
+	- Ransomeware
+	- Phishing
+	- DOS
+	- ...
+- Audit
+	- Use specific std.
+	- Identify the std.
+	- Auditor needs to have knowledge of std.
+	- Compliance-focused
+	- Checklist-oriented
+	- PASS-FAIL
+- Assessment
+	- Use experience and practical knowledge
+- Common Vlunerability
+	- Legacy software / equipment
+	- default config
+	- lack of encryption
+	- remote access policies
+	- lack of network segregation
+	- DDos
+	- Web App Attacks
+	- Malware
+	- Common Injection Manipulation
+- Cybersecurity maturity model - level definition
+	- initial / ad hoc
+	- ...
+	- optimized (highest)
+- Building cybersecurity is a continous process
+- ICS Risk assessment
+	- Identifiy assets
+		- priortizie asset identification and assessment by crticality 
+		- Review the critical processes and equipment first, those that if compromised could have the greatest negative impact 
+	- identify threat
+		- specific current info. on ICS threats and vulunerability can be researched
+	- controls
+		- security life cycle can be used as an effective tool when mapping security controls to each phase:
+			- identification, project, detect, ...
+	- vulunerability
+	- likelihood
+		- The DREAD model can be used as an indirectmeans of calculating consequences and likelihodd
+	- impact
+- avoid, reduce, accept, transfer risk <= not 100% protection 
